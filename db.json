@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "Burger",
+      "price": "20",
+      "count": 0,
+      "isInCart": false
+    },
+    {
+      "name": "Cola",
+      "price": "5",
+      "count": 0,
+      "isInCart": false,
+      "id": 4
+    },
+    {
+      "name": "Bigmac",
+      "price": "55",
+      "count": 0,
+      "isInCart": false,
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "Cheese Cake",
+      "price": "15",
+      "count": 0,
+      "isInCart": false
+    }
+  ]
+}
